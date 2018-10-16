@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Lmao</string>
+    <string name="button_show">Show Message</string>
+    <string name="clickToClear">Clear Screen</string>
+</resources>
